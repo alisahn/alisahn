@@ -3,4 +3,4 @@
 - I am currently a junior level backend developer.
 - I gained experience with php and codeigniter in different companies.
 
-- Linkedin : https://www.linkedin.com/in/ali-%C5%9Fahin-b2656b186/
+- Linkedin : [Ali Şahin's Linkedin Profile](https://www.linkedin.com/in/ali-sahin-info/)
